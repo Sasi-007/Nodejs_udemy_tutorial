@@ -5,4 +5,4 @@ const users={
     "total": 12,
     "total_pages": "hi"
 }
-module.exports={num,users}
+module.exports={users,num}

@@ -1,2 +1,3 @@
-const nums= require('./mod');
-console.log(nums.users);
+const num= require('./mod');
+console.log(num);
+console.log(num.users);
